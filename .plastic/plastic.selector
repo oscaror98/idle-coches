@@ -1,4 +1,0 @@
-repository "IdleCoches@oscaror98@cloud"
-  path "/"
-    br "/main"
-    co "/main"
